@@ -1,0 +1,21 @@
+{
+  "name": "ejercicio_1",
+  "version": "1.0.0",
+  "description": "Este es el ejercicio del desafio semanal 2",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Julian Toledo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "ur al proyecto"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
