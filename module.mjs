@@ -9,3 +9,7 @@ export function esPrimo(numero){
 import utils2 from "./commonjs.cjs"
 
 utils2.esPrimo2(3)
+
+import dotenv from "dotenv"
+
+dotenv.config();
